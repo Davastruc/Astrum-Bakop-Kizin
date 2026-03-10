@@ -1,0 +1,10 @@
+DOSSIER ICONS — Icônes PWA
+==========================
+
+Ces icônes sont utilisées quand l'application est installée sur un téléphone.
+
+icon-192.png  →  192 x 192 px  (icône Android / bureau)
+icon-512.png  →  512 x 512 px  (icône haute résolution)
+
+Utilisez votre logo sur fond orange (#E87722) ou transparent.
+Format PNG obligatoire.

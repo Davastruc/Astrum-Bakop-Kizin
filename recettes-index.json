@@ -1,0 +1,7 @@
+{
+  "_commentaire": "Listez ici tous vos fichiers PDF dans le dossier RECETTE/",
+  "_format": "Chaque recette dans le PDF doit commencer par == NOM == (voir exemple-recettes-format.pdf)",
+  "fichiers": [
+    "exemple-recettes-format.pdf"
+  ]
+}

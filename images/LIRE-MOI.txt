@@ -1,0 +1,81 @@
+DOSSIER IMAGES — Astrum Chickens Back-Up v2.0
+=============================================
+
+Placez vos images dans ce dossier avec les noms exacts listés ci-dessous.
+Formats acceptés : JPG, JPEG, PNG, WEBP
+
+Si une image est absente, l'emoji de la recette s'affiche automatiquement.
+Taille recommandée : 600x400 px minimum pour les recettes (format paysage).
+
+─────────────────────────────────────────────
+IDENTITÉ DE L'APPLICATION
+─────────────────────────────────────────────
+logo.png          → Logo de l'application (header + splash screen)
+                    Taille recommandée : 200x200 px (carré)
+
+chef.png          → Image du chef sur l'écran d'accueil
+                    Taille recommandée : 300x300 px (carré ou portrait)
+
+hygiene.png       → Image illustrative du guide d'hygiène
+                    Taille recommandée : 300x300 px
+
+─────────────────────────────────────────────
+ICÔNES PWA (dossier icons/)
+─────────────────────────────────────────────
+icons/icon-192.png → Icône PWA 192x192 px (Android)
+icons/icon-512.png → Icône PWA 512x512 px (Android/iOS)
+
+─────────────────────────────────────────────
+RECETTES — PLATS PRINCIPAUX
+─────────────────────────────────────────────
+griot.jpg         → Griot Haïtien (Porc Frit)
+diri-kole.jpg     → Diri Kole ak Pwa (Riz Collé)
+poulet-sauce.jpg  → Poulet en Sauce
+legim.jpg         → Légumes Haïtiens (Ragoût)
+tasso.jpg         → Tasso de Bœuf
+akra.jpg          → Akra (Beignets de Malanga)
+bannann-peze.jpg  → Bannann Peze (Bananes Pesées)
+pikliz.jpg        → Pikliz (Condiment Pimenté)
+
+─────────────────────────────────────────────
+RECETTES — FRUITS DE MER
+─────────────────────────────────────────────
+langouste.jpg         → Langouste Grillée
+poisson-gros-sel.jpg  → Poisson Gros Sel
+crevettes.jpg         → Crevettes en Sauce Créole
+crabe-farci.jpg       → Crabe Farci
+lambi.jpg             → Lambi en Sauce
+poisson-frit.jpg      → Poisson Frit
+soupe-poisson.jpg     → Soupe de Poissons
+
+─────────────────────────────────────────────
+RECETTES — JUS & BOISSONS
+─────────────────────────────────────────────
+jus-grenadine.jpg  → Jus de Grenadine Haïtienne
+jus-corossol.jpg   → Jus de Corossol
+jus-tamarin.jpg    → Jus de Tamarin
+jus-papaye.jpg     → Jus de Papaye
+jus-betterave.jpg  → Jus de Betterave
+jus-mangue.jpg     → Jus de Mangue
+kremas.jpg         → Kremas (Crème Haïtienne)
+
+─────────────────────────────────────────────
+RECETTES — PÂTISSERIES & DESSERTS
+─────────────────────────────────────────────
+pain-patate.jpg    → Pain Patate (Gâteau Patate Douce)
+dous-makos.jpg     → Dous Makos (Fudge Haïtien)
+tablet-kokoye.jpg  → Tablet Kokoye (Tablette Coco)
+marinad.jpg        → Marinad / Accra de Morue
+gateau-mariage.jpg → Gâteau de Mariage Haïtien
+pen-patat.jpg      → Pen Patat (Pudding Plantain)
+bouillie-mais.jpg  → Bouillie de Maïs
+
+─────────────────────────────────────────────
+RECETTES — SOUPES
+─────────────────────────────────────────────
+soup-joumou.jpg   → Soup Joumou (1er Janvier)
+bouillon.jpg      → Bouillon Haïtien
+
+─────────────────────────────────────────────
+TOTAL : 30 recettes + 3 images d'identité
+─────────────────────────────────────────────
